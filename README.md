@@ -77,7 +77,7 @@ This was a live production environment used by multiple projects.
 ├── lessons-learned.md
 ├── masking-rules.md
 └── README.md
-
+```
 
 ---
 
