@@ -29,6 +29,13 @@ for enterprise project and resource management.
 - Enterprise Resource Pool
 - Custom Fields & Views
 
+## Screenshots
+- Project Center overview
+- Project Site dashboards
+- Resource Center
+- Build Team configuration
+- Custom progress views
+
 ## Notes
 All screenshots and data are sanitized.
 No internal URLs, IPs, or real user data are exposed.
