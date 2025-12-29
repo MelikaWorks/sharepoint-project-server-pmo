@@ -47,8 +47,7 @@ This was a live production environment used by multiple projects.
 
 ## Repository Structure
 
-Repository Structure
-
+```bash
 .
 ├── case-study/
 │   ├── overview.md
