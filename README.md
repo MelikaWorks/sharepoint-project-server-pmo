@@ -47,30 +47,33 @@ This was a live production environment used by multiple projects.
 
 ## Repository Structure
 
+Repository Structure
+
+.
 ├── case-study/
-│ ├── overview.md
-│ ├── my-role.md
-│ └── architecture.md
+│   ├── overview.md
+│   ├── my-role.md
+│   └── architecture.md
 │
 ├── architecture-and-design/
-│ └── troubleshooting-notes.md
+│   └── troubleshooting-notes.md
 │
 ├── reports-and-insights/
-│ ├── reports-overview.md
-│ ├── kpi-and-progress-analysis.md
-│ └── lessons-learned.md
+│   ├── reports-overview.md
+│   ├── kpi-and-progress-analysis.md
+│   └── lessons-learned.md
 │
 ├── screenshots/
-│ ├── 00-optional-portal-home.jpg
-│ ├── 01-project-center.jpg
-│ ├── 02-reports-library.jpg
-│ ├── 03-project-site.jpg
-│ ├── 04-custom-list-capacity.jpg
-│ ├── 05-multi-project-environment.jpg
-│ ├── 06-project-summary-kpi-dashboard.jpg
-│ ├── 07-pwa-custom-view-project-progress-tracking.jpg
-│ ├── 08-pwa-manage-project-task-resource-views.jpg
-│ └── 09-project-web-app-task-structure-and-governance.jpg
+│   ├── 00-optional-portal-home.jpg
+│   ├── 01-project-center.jpg
+│   ├── 02-reports-library.jpg
+│   ├── 03-project-site.jpg
+│   ├── 04-custom-list-capacity.jpg
+│   ├── 05-multi-project-environment.jpg
+│   ├── 06-project-summary-kpi-dashboard.jpg
+│   ├── 07-pwa-custom-view-project-progress-tracking.jpg
+│   ├── 08-pwa-manage-project-task-resource-views.jpg
+│   └── 09-project-web-app-task-structure-and-governance.jpg
 │
 ├── lessons-learned.md
 ├── masking-rules.md
