@@ -1,29 +1,28 @@
 # sharepoint-project-server-pmo
-Sanitized case study of an enterprise SharePoint &amp; Project Server implementation, focusing on PMO systems, project governance, resource management, and reporting.
+Sanitized case study of an enterprise SharePoint & Project Server (PWA) implementation, focused on PMO systems, project governance, resource and cost management, and reporting.
 
 # Enterprise SharePoint Project Server (PWA) – Case Study
 
-This repository presents a sanitized, real-world case study of an
-enterprise implementation of **SharePoint Project Server (PWA)**,
-focused on portfolio management, project governance, reporting,
-and resource/cost awareness.
+This repository presents a sanitized, real-world enterprise case study
+of **SharePoint Project Server (PWA)**, focused on portfolio management,
+project governance, reporting, and resource/cost awareness.
 
-The goal of this repository is to demonstrate system design,
-administration, and analytical thinking rather than to provide
+The purpose of this repository is to demonstrate system design,
+administration, and analytical thinking, rather than to provide
 deployment scripts or raw configuration files.
 
 ---
 
 ## Scope of the Case Study
 
-This case study covers:
+This case study covers the following areas:
 
-- Multi-project and portfolio visibility
-- Project Web App (PWA) configuration
-- Project governance and controlled task management
-- Custom views for project, task, resource, and cost perspectives
+- Multi-project and portfolio-level visibility
+- Project Web App (PWA) configuration and usage
+- Project governance with controlled task management
+- Custom views across project, task, resource, and cost dimensions
 - KPI-based progress monitoring and reporting
-- Resource and cost awareness at enterprise level
+- Enterprise-level resource and cost awareness
 - Structured troubleshooting and documentation practices
 
 All content has been anonymized and sanitized.
@@ -34,12 +33,12 @@ All content has been anonymized and sanitized.
 
 In this project, I was responsible for the end-to-end setup,
 configuration, and operational support of the Project Server
-environment, acting as:
+environment, with responsibilities including:
 
-- SharePoint / Project Server Administrator
-- PMO Systems Specialist
-- Reporting and governance designer
-- Resource and cost structure coordinator
+- SharePoint / Project Server administration
+- PMO systems implementation and support
+- Reporting and governance design
+- Resource and cost structure coordination
 
 This was a live production environment used by multiple projects.
 
@@ -72,8 +71,8 @@ This was a live production environment used by multiple projects.
 │   ├── 06-project-summary-kpi-dashboard.jpg
 │   ├── 07-pwa-custom-view-project-progress-tracking.jpg
 │   ├── 08-pwa-manage-project-task-resource-views.jpg
-|   ├── 09-project-web-app-task-structure-and-governance.jpg
-|   ├── 10-pwa-project-build-team-cost-management.jpg
+│   ├── 09-project-web-app-task-structure-and-governance.jpg
+│   ├── 10-pwa-project-build-team-cost-management.jpg
 │   └── 11-resource-center-cost-resources.jpg
 │
 ├── lessons-learned.md
@@ -88,50 +87,51 @@ This was a live production environment used by multiple projects.
 The `screenshots` folder contains selected and sanitized screenshots
 illustrating key aspects of the system, including:
 
-- Project Center and portfolio views
+- Project Center and portfolio-level views
 - Project-level dashboards and timelines
 - Custom PWA views and governance controls
 - Resource and cost-related configurations
 
-Screenshots are intentionally limited to highlight structure and
-design rather than expose operational data.
+Screenshots are intentionally limited to highlight system structure
+and design, rather than expose operational or sensitive data.
 
 ---
 
 ## Reporting and Analysis
 
-Detailed explanations of reporting logic and progress analysis
-can be found in:
+Detailed explanations of the reporting structure and progress
+analysis are provided in the following documents:
 
 - `reports-and-insights/reports-overview.md`
 - `reports-and-insights/kpi-and-progress-analysis.md`
 
-These documents focus on how insights were derived and used for
-decision-making, not on raw data or metrics.
+These documents focus on how insights were derived and applied
+to support decision-making, rather than on raw data or metrics.
 
 ---
 
 ## Lessons Learned
 
 Practical insights gained from operating the system in a real
-enterprise environment are documented in:
+enterprise environment are documented in the following files:
 
 - `reports-and-insights/lessons-learned.md`
 - `lessons-learned.md`
 
-These reflections highlight governance, adoption, and analytical
-lessons rather than tool limitations.
+These reflections focus on governance, user adoption, and
+analytical considerations, rather than tool-specific limitations.
 
 ---
 
 ## Troubleshooting Approach
 
 A high-level overview of the troubleshooting methodology and
-problem-solving mindset used throughout the project is available in:
+problem-solving mindset applied throughout the project is available in:
 
 - `architecture-and-design/troubleshooting-notes.md`
 
-Step-by-step fixes and internal references are intentionally excluded.
+Detailed, step-by-step fixes and internal references are
+intentionally excluded from this public repository.
 
 ---
 
@@ -144,7 +144,7 @@ All materials in this repository have been sanitized to remove:
 - Server names, URLs, and infrastructure details
 - Real cost figures and sensitive timelines
 
-For details, see:
+For additional details, see:
 - `masking-rules.md`
 
 ---
@@ -156,6 +156,8 @@ to demonstrate experience with enterprise project management
 systems, governance, and analytical thinking.
 
 It is not intended for direct deployment or operational reuse.
+
+---
 
 ## Author
 
