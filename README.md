@@ -160,10 +160,11 @@ It is not intended for direct deployment or operational reuse.
 ## Author
 
 👩‍💻 **Melika Mehranpour**  
-Senior Software Engineer | Backend & Enterprise Systems 
+Senior Software Engineer | Enterprise & Collaboration Platforms
 
 **Expertise:**  
-Python (Django) • PostgreSQL • Enterprise Systems • System Design • Agile 
+SharePoint • Project Web App (PWA) • Workflow Automation •
+Reporting & Governance
 
 🔗 [LinkedIn](https://www.linkedin.com/in/melika-mehranpour-41b627161/) | [GitHub](https://github.com/MelikaWorks)
 
