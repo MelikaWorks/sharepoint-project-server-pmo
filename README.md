@@ -72,7 +72,9 @@ This was a live production environment used by multiple projects.
 │   ├── 06-project-summary-kpi-dashboard.jpg
 │   ├── 07-pwa-custom-view-project-progress-tracking.jpg
 │   ├── 08-pwa-manage-project-task-resource-views.jpg
-│   └── 09-project-web-app-task-structure-and-governance.jpg
+|   ├── 09-project-web-app-task-structure-and-governance.jpg
+|   ├── 10-pwa-project-build-team-cost-management.jpg
+│   └── 11-resource-center-cost-resources.jpg
 │
 ├── lessons-learned.md
 ├── masking-rules.md
