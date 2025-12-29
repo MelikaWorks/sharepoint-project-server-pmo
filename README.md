@@ -28,6 +28,15 @@ This case study covers the following areas:
 All content has been anonymized and sanitized.
 
 ---
+## Tech Stack
+
+- Microsoft SharePoint Server (On-Premises)
+- SharePoint Project Server / Project Web App (PWA)
+- SQL Server (Project Server backend)
+- Enterprise Reporting & KPI Dashboards
+- Role-Based Access & Governance Design
+
+---
 
 ## My Role
 
