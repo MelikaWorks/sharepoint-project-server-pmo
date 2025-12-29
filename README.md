@@ -36,6 +36,13 @@ for enterprise project and resource management.
 - Build Team configuration
 - Custom progress views
 
+## Case Study
+
+- [Overview](case-study/overview.md)
+- [My Role & Responsibilities](case-study/my-role.md)
+- [System Architecture](case-study/architecture.md)
+
+
 ## Notes
 All screenshots and data are sanitized.
 No internal URLs, IPs, or real user data are exposed.
